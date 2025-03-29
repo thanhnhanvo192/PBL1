@@ -1,0 +1,45 @@
+201
+Nguyen Huy Hoang
+25 8 2004 Nam 6 NV 3
+202
+Dang Cong Nguyen
+30 3 2005 Nam 1 NV 4
+203
+Dinh Dai Nghia
+1 10 2000 Nam 3 TP 5
+204
+Ha Tran Khanh Huy
+3 5 1960 Nam 3 PP 4
+205
+Ngo Van So
+24 04 2004 Nam 6 NV 3
+206
+Huynh Cong Hieu
+13 03 2003 Nam 1 NV 3
+207
+Le Thi My Tam
+20 2 2003 Nu 1 NV 4
+208
+Nguyen Thi Khanh Chi
+31 7 1990 Nu 3 PGD 4
+209
+Nguyen Van Tien
+6 3 2001 Nam 3 GD 5
+210
+To Thi Ngoc Bich
+5 3 2000 Nu 2 NV 3
+211
+Nguyen Thi Kim Lien
+16 4 2005 Nu 3 NV 3
+212
+Mai Hong Ngoc
+24 3 1999 Nu 6 NV 3
+213
+Vo Van Cuong
+17 8 2002 Nam 2 PP 3
+214
+Dinh Van Khan
+15 2 2004 Nam 2 NV 3
+215
+Nguyen Thi My Dung
+25 7 2001 Nu 1 NV 3
